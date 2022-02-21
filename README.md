@@ -18,7 +18,7 @@ git clone https://github.com/kdandy/engjoy
 
 ## Demo and Documentation
 
-- Open the [demo page](http://kartini.kdandy.com)
+- Open the [demo page](http://engjoy.kdandy.com)
 - Open the [source code](http://github.com/kdandy/engjoy)
 
 ### Note
