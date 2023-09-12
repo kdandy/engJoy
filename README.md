@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to engJoy repository! 👋🏻</h1>
-<h1 align="center">Make Easier to Learn English</h1>
 
 ![Screenshot](https://user-images.githubusercontent.com/50922642/154951895-39b9182b-21e6-40c1-aea3-263e6c8d6d42.png)
 
